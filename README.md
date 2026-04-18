@@ -172,7 +172,15 @@ Incoming conversation history is checked against the model's token limit. When u
 
 ## Screenshots
 
-![API Docs](screenshots/api_docs.png)
-![Chat Response](screenshots/chat_response.png)
-![Stream Response](screenshots/stream_response.png)
-![Cache Hit](screenshots/cache_hit.png)
+![API Docs]
+<img width="1917" height="1031" alt="image" src="https://github.com/user-attachments/assets/0f8f4e73-694e-4ea3-aef1-557962c8018d" />
+
+![Chat Response]
+<img width="1918" height="1032" alt="image" src="https://github.com/user-attachments/assets/8ac96b47-d9e6-47cb-af43-eb1edd54819b" />
+
+![Stream Response]
+<img width="1918" height="1025" alt="image" src="https://github.com/user-attachments/assets/054c564f-4880-4e07-8318-4e350925e059" />
+
+![Cache Hit]
+<img width="1893" height="1031" alt="image" src="https://github.com/user-attachments/assets/242ac3bb-21c1-4664-a896-ebdba1981ac9" />
+
