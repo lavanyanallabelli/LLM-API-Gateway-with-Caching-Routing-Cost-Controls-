@@ -1,0 +1,8 @@
+1 Project scaffold — folder structure, Express server, basic health check
+2 Provider abstraction — OpenAI + Anthropic behind one interface
+3 Basic proxy — take a request, forward to LLM, return response
+4 Exact + semantic caching with Redis
+5 Model routing by task complexity
+6 Streaming proxy with Server-Sent Events
+7 Retry logic with exponential backoff + error classification
+8 Context window management + conversation summarization
